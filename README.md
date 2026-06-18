@@ -12,6 +12,10 @@ This project was developed as an exercise proposed at [https://roadmap.sh/packs/
   - Accessibility best practices verification
   - Suggestions for structural improvements
 
+## Demo / Testing
+
+You can test the project at: https://falecomleonardolima.github.io/roadmap-html-vc/
+
 ## Project Structure
 
 ```

@@ -2,7 +2,7 @@
 
 ## About this project
 
-This project was developed as an exercise proposed at [https://roadmap.sh/packs/html/single-page-cv](https://roadmap.sh/packs/html/single-page-cv).
+This project was developed as an exercise proposed at [https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv).
 
 ## Development
 
